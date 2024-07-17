@@ -1,0 +1,132 @@
+
+.nav{
+
+    background-color: #191924;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    @media (max-width: 960px) {
+        trastion: 0.8s all ease;
+    }
+}
+.nav.dark{
+    background-color: #e8d574;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    @media (max-width: 960px) {
+        trastion: 0.8s all ease;
+    }
+}
+
+.nav-link{
+    color: #F2F3F4;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    :hover {
+      color: #854CE6;
+    }
+
+    &.active {
+      border-bottom: 2px solid #854CE6;
+    }
+}
+.nav-link.dark{
+    color: #b5240a;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    :hover {
+      color: #854CE6;
+    }
+
+    &.active {
+      border-bottom: 2px solid #854CE6;
+    }
+}
+
+.toggle-button {
+  padding: 8px;
+  margin-left: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border: 2px solid #854ce6;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #000;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-button.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.github-button {
+    border: 1.8px solid #854CE6;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 70%;
+    border-radius: 20px;
+    color: #854CE6;
+    cursor: pointer;
+    padding: 0 20px;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all 0.6s ease-in-out;
+  }
+  
+  .github-button:hover {
+    background: #854CE6;
+    color: var(--white-color);
+  }
+  
+  @media screen and (max-width: 768px) {
+    .github-button {
+      font-size: 14px;
+    }
+  }
+  
+
+  .github-button.dark {
+    border: 1.8px solid #fdfdfd;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 70%;
+    border-radius: 20px;
+    color: #fbfafc;
+    cursor: pointer;
+    padding: 0 20px;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all 0.6s ease-in-out;
+  }
+  
+  .github-button.dark:hover {
+    background: #ffffff;
+    color: var(--white-color);
+  }
+  
+  @media screen and (max-width: 768px) {
+    .github-button.dark {
+      font-size: 14px;
+    }
+  }
+  
