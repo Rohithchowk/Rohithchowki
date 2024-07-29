@@ -1,357 +1,355 @@
 {"Bio":{
-    "name": "రోహిత్ చౌకి",
-    "roles": [
-      "ఫుల్ స్టాక్ డెవలపర్",
-      "క్లౌడ్ డెవలపర్",
-      "యాప్ డెవలపర్",
-      "ప్రోగ్రామర్"
-    ],
-    "textloop":"నేను ఒక",
-    "checkresume":"రెజ్యూమ్ చూడండి",
-    "description":"నా పోర్ట్‌ఫోలియోకు స్వాగతం! నేను రోహిత్ చౌకి, సహనానికి, అనుకూలతకు మరియు జట్టుతో పని చేసే గుణాలకు ప్రసిద్ధుడిని. ప్రోగ్రామింగ్ మరియు అభివృద్ధి పట్ల ఆసక్తితో, నేను ప్రతి ప్రాజెక్టుకు సృజనాత్మకత మరియు ఖచ్చితత్వానికి అనునయాన్ని తెస్తాను, సహకారాన్ని ప్రోత్సహిస్తాను మరియు అసాధారణ ఫలితాలను అందిస్తాను. నా పని అన్వేషించండి మరియు ఆవిష్కరణ మరియు అంకితభావం యొక్క సంగమాన్ని కనుగొనండి.",
-    "github": "https://github.com/Rohithchowk",
-    "resume": "https://drive.google.com/file/d/1EP9Q0_nPkwP1wxGbfwJcGj0HtFQ0Tuak/view?usp=sharing",
-    "linkedin": "https://www.linkedin.com/in/rohith-chowki/",
-    "twitter": "https://twitter.com/rohith28chowki",
-    "insta": "https://www.instagram.com/rohith282019/",
-    "email":"mailto:rohith28chowki@gmail.com"
+  "name": "రోహిత్ చౌకి",
+  "roles": [
+    "ఫుల్ స్టాక్ డెవలపర్",
+    "క్లౌడ్ డెవలపర్",
+    "యాప్ డెవలపర్",
+    "ప్రోగ్రామర్"
+  ],
+  "textloop":"నేను ఒక",
+  "checkresume":"రెజ్యూమ్ చూడండి",
+  "description":"నా పోర్ట్‌ఫోలియోకు స్వాగతం! నేను రోహిత్ చౌకి, సహనానికి, అనుకూలతకు మరియు జట్టుతో పని చేసే గుణాలకు ప్రసిద్ధుడిని. ప్రోగ్రామింగ్ మరియు అభివృద్ధి పట్ల ఆసక్తితో, నేను ప్రతి ప్రాజెక్టుకు సృజనాత్మకత మరియు ఖచ్చితత్వానికి అనునయాన్ని తెస్తాను, సహకారాన్ని ప్రోత్సహిస్తాను మరియు అసాధారణ ఫలితాలను అందిస్తాను. నా పని అన్వేషించండి మరియు ఆవిష్కరణ మరియు అంకితభావం యొక్క సంగమాన్ని కనుగొనండి.",
+  "github": "https://github.com/Rohithchowk",
+  "resume": "https://drive.google.com/file/d/1EP9Q0_nPkwP1wxGbfwJcGj0HtFQ0Tuak/view?usp=sharing",
+  "linkedin": "https://www.linkedin.com/in/rohith-chowki/",
+  "twitter": "https://twitter.com/rohith28chowki",
+  "insta": "https://www.instagram.com/rohith282019/",
+  "email":"mailto:rohith28chowki@gmail.com"
 },
 "Navbar": {
-    "portfolio": "పోర్ట్‌ఫోలియో",
-    "about": "గురించి",
-    "skills": "నైపుణ్యాలు",
-    "experience": "అనుభవం",
-    "projects": "ప్రాజెక్ట్స్",
-    "education": "విద్య",
-    "githubprofile":"గిట్హబ్ ప్రొఫైల్"
+  "portfolio": "పోర్ట్‌ఫోలియో",
+  "about": "గురించి",
+  "skills": "నైపుణ్యాలు",
+  "experience": "అనుభవం",
+  "projects": "ప్రాజెక్ట్స్",
+  "education": "విద్య",
+  "githubprofile":"గిట్హబ్ ప్రొఫైల్"
 },
 
 "SKills":{
-   "skills":"నైపుణ్యాలు",
-   "here":"ఇక్కడ నా కొన్ని నైపుణ్యాలు"
+ "skills":"నైపుణ్యాలు",
+ "here":"ఇక్కడ నా కొన్ని నైపుణ్యాలు"
 },
 
 "skills": [
-    
+  
+      
+   
+    {
+      "sKills":"నైపుణ్యాలు",
+      "here":"ఇక్కడ నా కొన్ని నైపుణ్యాలు",
+      "title": "ఫ్రంటెండ్",
+      "skills": [
+        {
+          "name": "రీయాక్ట్ జేఎస్",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+        },
+        {
+          "name": "నెక్స్ట్ జేఎస్",
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII="
+        },
+        {
+          "name": "HTML",
+          "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+        },
+        {
+          "name": "CSS",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+        },
+        {
+          "name": "జావాస్క్రిప్ట్",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+        },
+        {
+          "name": "బూట్స్ట్రాప్",
+          "image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+        },
+        {
+          "name": "మేటీరియల్ UI",
+          "image": "data:image/png;base64,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"
+        }
         
-     
-      {
-        "sKills":"నైపుణ్యాలు",
-        "here":"ఇక్కడ నా కొన్ని నైపుణ్యాలు",
-        "title": "ఫ్రంటెండ్",
-        "skills": [
+      ]
+    },
+    {
+      "title": "బ్యాకెండ్",
+      "skills": [
           {
-            "name": "రీయాక్ట్ జేఎస్",
-            "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+              "name": "నోడ్.జెఎస్",
+              "translationKey": "నోడ్.జెఎస్",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"
           },
           {
-            "name": "నెక్స్ట్ జేఎస్",
-            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII="
+              "name": "ఎక్స్ప్రెస్.జెఎస్",
+              "translationKey": "ఎక్స్ప్రెస్.జెఎస్",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/800px-Expressjs.png"
           },
           {
-            "name": "HTML",
-            "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+              "name": "మైఎస్క్యూఎల్",
+              "translationKey": "మైఎస్క్యూఎల్",
+              "image": "https://i.imgur.com/CMUeDlT.png"
           },
           {
-            "name": "CSS",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+              "name": "ఎమోంగోడ్బి",
+              "translationKey": "ఎమోంగోడ్బి",
+              "image": "https://i.imgur.com/8esCfAn.png"
           },
           {
-            "name": "జావాస్క్రిప్ట్",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+              "name": "స్ప్రింగ్బూట్",
+              "translationKey": "స్ప్రింగ్బూట్",
+              "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAe1BMVEX///9ssz5lsDJqsjritosTfb7NG01qOWyHnv9+p5uVBlsDFpsjr9/vzz+fDh79lytkaHwGXn8uHU6Mn5/PdxtkTA3bBfriedy4SjzovG4Ljk8d2w1ZuPxHCp0pPL475+vFmXyHyFv2Kz15+72qrK4r1+vFifzIZarBxV5g2FAAAJRUlEQVR4nO2daXfyKhCABUJqDJoYtbbutXb5/7/wan2tEMNMUAg998zztbFmWGZjGHs9giAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgvj/UiyeHuKwWMYWAaJ4kfOcP0Y+Z5u/KuRyLSXzgODqpYotTAPDlfAi3w989hRbnhtG+1x4E/A4j/l6Glskk2rmbwLP8MEotlA61cC3gIzJ3R8ScTj2L+BxFt9iy3XliQcQ8CjiR2zBLoykTyVzRcyGsUX7x0uYKTxO4iq2aGeKJJCAjOVZbOFODNch1MwZ+RJbuhPbcFPIWJLGFq/Xmw5UQAnlOL6yWeUBBTzuxOfYAlYsjKW4IMrYnk0/nJo5wzdxBSzmgQVk7DuuxdiFVDNn5DqmgM8hLcWFZBJPwNHAWc0o5f6Rfbxg2NVSCC52+xl3VU5JNItRCbf5kLOPk+pPx45rW5SxlI1j3Cs/L6tt4ygij+SeTtzWqCivKULXnAAvokj46WYp9GAvdTQycSyGq6WQeibbVQnPI1iMzNEhFQNdXbjGlGLQvcV4RVMX5giYEtbcWVwp550nwQtkJwkuS8W1F7dLKDgrS479v7L"
           },
           {
-            "name": "బూట్స్ట్రాప్",
-            "image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
-          },
-          {
-            "name": "మేటీరియల్ UI",
-            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADgCAMAAAAt85rTAAAAh1BMVEX///8Af/8Ad/8AfP8Aev/v+P8Adf8Ae/+Puv8Adv+72P8Ac/87k/8Agf/t9f/6/f/U5v+lyf/m8f+10//H3v/C2/9Tnf9npv/e7P+w0P9+s/9Il/+Ywf8rjP8xkP/A2f8ch//Q4/9zrf94r/+HuP+dxP8JhP9aoP/a6f9Mmv+py/+Tv/8Ab/9IeMWVAAAHEElEQVR4nO2d6XqqMBBAJUQodcG1tlqpS2tre9//+W6oWgWyTAiB4DfnNwaOZiQkk6HTQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQZCm2X5Pu3Wda/Y91zl8Mhoan3KY9AghD8btQJgeAhL5YMVtEgTRp+GXHx9Cj0EGU7N2AHz1g/RUXm8EOry76PnsaHqIjc76SrwTQQI7b1nO18vw+5Djx4SeDifvRuc9ns/KzhsszDu8kFcSXk7kRerfZLsmf9e1MTpx8ifoeSH5MWpLzOOBXE/jEVVYxX+/9q+h0alvBW2F4tcq8DwNwb/eWb0g6z79qkOxuwty55ALjtYke3i1gp7fW1R6V/ygNHcGqWA30zttCLJQjF6Nmrzl7UAK7csEx1FYOLxyQXYFhzejRi8854JPKbjjHW9BkN0VV89GzabE+3zwqQTnPd7hVgRZKO4MQzH3XwgRXBT7pzVBNkaiHwbtzjec4FMJ9rkXY0vQJBQnT4X/QhcF2eitVCjGS5meS4Kp4l47FMe+KPgcFNQPxVl+INKw4FolmIYi/ClcHnyOCrJ+eoSFYvweAZpzTzBVXAKeq79VweeuYBqKY0VL23UEa0pXMKxFkF3WeiZpZ/gpGJeZCw5qEmSjt6eJqJl3zlNARYJ0UZdgqsgPxRdg8JUR9CPht1q9IPs6ve9CE9sEGnwlBKm/NfLTFfS8KBeKw+IjeHWCoi5jU5Cd9POm0zwTnYrSvOaD5SPr2gJLl1MWfB9XsR0v72T6gAezTb6Z4lN5lNWyZwZThczVyz7BxZSlvI1G2GoP+50vG18c8bXTJ9GTXNdlMai6w+SQOdFCtG3SvbiJw4y8PmfuIYZiXr5fj0u2sA6+mCkPyi1xnSkKmDy+Ujq0N+AdLfOy7F7kDo7rZb7sDSrL/CST2TzHHJWxqDczbL1kAbLXQuVDDO71TsgdQXAn4cCB2M4y0v6D2Zg3cnBD90Eo7c5Yk74ZmIdfpdIaJFpGg7bSjsDkn9rH45kfcf1RByb3E+8p+T22IeOx2uTHmYU8ViT10ZSSu16F2KmK0Iqy+NJW9EW6OxdXZ68J3sEl1iIs9fZrWpK+plF0n2GY1FpAl/hcu+g9vOuI9Rb1RtC4ti5XPOarKo7u9tOKio3gyHZX5Es+Pcnr9yN/8H9PZWfhbL5tL4f6/m6wK1mgvcP4epPnY4a+pyTGeJ2g6hw5EJoUn6VW78F6wN4pE3lwP6/tuEaTdPPS5q3k4v8EmYnlrX5TawS14J8goyMmnb3i5C6g0SwgLePzF4LCmTvpSZ6uY1hB/0j0j2Fr5F6lCtG1+5uVi0s++BcR/xCl9E11qN9uhEwGfYfWe7QbQUFkO+uVf8HL0I9e2Lmjtd0g/PC8nf8AjuK67+9pEPwZ8DsWAArMN2J1w1kMVMAAAAASUVORK5CYII="
-          },
-          {
-            "name": "రైట్ జెసన్",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png"
+              "name": "ఫైర్‌బేస్",
+              "image": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
           }
-        ]
+      ]
+  },
+  
+  {
+    "title": "క్లౌడ్",
+    "skills": [
+      {
+        "name": "అమెజాన్ వెబ్ సర్వీసెస్ (బేసిక్ స్థాయి)",
+        "translationKey": "skills.databases.sql",
+        "image": "https://i.imgur.com/GGeWt8K.png"
       },
       {
-        "title": "బ్యాకెండ్",
-        "skills": [
-            {
-                "name": "నోడ్.జెఎస్",
-                "translationKey": "నోడ్.జెఎస్",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"
-            },
-            {
-                "name": "ఎక్స్ప్రెస్.జెఎస్",
-                "translationKey": "ఎక్స్ప్రెస్.జెఎస్",
-                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/800px-Expressjs.png"
-            },
-            {
-                "name": "మైఎస్క్యూఎల్",
-                "translationKey": "మైఎస్క్యూఎల్",
-                "image": "https://i.imgur.com/CMUeDlT.png"
-            },
-            {
-                "name": "ఎమోంగోడ్బి",
-                "translationKey": "ఎమోంగోడ్బి",
-                "image": "https://i.imgur.com/8esCfAn.png"
-            },
-            {
-                "name": "స్ప్రింగ్బూట్",
-                "translationKey": "స్ప్రింగ్బూట్",
-                "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAe1BMVEX///9ssz5lsDJqsjritosTfb7NG01qOWyHnv9+p5uVBlsDFpsjr9/vzz+fDh79lytkaHwGXn8uHU6Mn5/PdxtkTA3bBfriedy4SjzovG4Ljk8d2w1ZuPxHCp0pPL475+vFmXyHyFv2Kz15+72qrK4r1+vFifzIZarBxV5g2FAAAJRUlEQVR4nO2daXfyKhCABUJqDJoYtbbutXb5/7/wan2tEMNMUAg998zztbFmWGZjGHs9giAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgiAIgvj/UiyeHuKwWMYWAaJ4kfOcP0Y+Z5u/KuRyLSXzgODqpYotTAPDlfAi3w989hRbnhtG+1x4E/A4j/l6Glskk2rmbwLP8MEotlA61cC3gIzJ3R8ScTj2L+BxFt9iy3XliQcQ8CjiR2zBLoykTyVzRcyGsUX7x0uYKTxO4iq2aGeKJJCAjOVZbOFODNch1MwZ+RJbuhPbcFPIWJLGFq/Xmw5UQAnlOL6yWeUBBTzuxOfYAlYsjKW4IMrYnk0/nJo5wzdxBSzmgQVk7DuuxdiFVDNn5DqmgM8hLcWFZBJPwNHAWc0o5f6Rfbxg2NVSCC52+xl3VU5JNItRCbf5kLOPk+pPx45rW5SxlI1j3Cs/L6tt4ygij+SeTtzWqCivKULXnAAvokj46WYp9GAvdTQycSyGq6WQeibbVQnPI1iMzNEhFQNdXbjGlGLQvcV4RVMX5giYEtbcWVwp550nwQtkJwkuS8W1F7dLKDgrS479v7L"
-            },
-            {
-                "name": "ఫైర్‌బేస్",
-                "image": "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            }
-        ]
-    },
-    
-    {
-      "title": "క్లౌడ్",
-      "skills": [
-        {
-          "name": "అమెజాన్ వెబ్ సర్వీసెస్ (బేసిక్ స్థాయి)",
-          "translationKey": "skills.databases.sql",
-          "image": "https://i.imgur.com/GGeWt8K.png"
-        },
-        {
-          "name": "జెంకిన్స్",
-          "translationKey": "skills.databases.mongodb",
-          "image": "https://i.imgur.com/HSDt6Os.png"
-        },
-        {
-          "name": "డాక్కర్",
-          "translationKey": "skills.databases.mariadb",
-          "image": "https://i.imgur.com/Xq0KtZV.png"
-        }
-      ]
-    },
-    
-    {
-      "title": "ప్రోగ్రామింగ్ భాషలు మరియు సంబంధిత కోర్స్ వివరాలు",
-      "skills": [
-        {
-          "name": "జావా",
-          "translationKey": "skills.data_structures.json",
-          "image": "https://i.imgur.com/82dKel6.png"
-        },
-        {
-          "name": "పైథాన్",
-          "translationKey": "skills.data_structures.javascript_objects",
-          "image": "https://i.imgur.com/I1gGTdY.jpg"
-        },
-        {
-          "name": "సి",
-          "translationKey": "skills.data_structures.sql",
-          "image": "https://i.imgur.com/akbyuVx.png"
-        },
-        {
-          "name": "డేటా స్ట్రక్చర్లు & ఆల్గరిదమ్స్",
-          "translationKey": "skills.data_structures.sql",
-          "image": "https://i.imgur.com/P5Wg10t.png"
-        },
-        {
-          "name": "డిబిఎంఎస్"
-        }
-      ]
-    }
-    
-    ],
-
+        "name": "జెంకిన్స్",
+        "translationKey": "skills.databases.mongodb",
+        "image": "https://i.imgur.com/HSDt6Os.png"
+      },
+      {
+        "name": "డాక్కర్",
+        "translationKey": "skills.databases.mariadb",
+        "image": "https://i.imgur.com/Xq0KtZV.png"
+      }
+    ]
+  },
   
+  {
+    "title": "ప్రోగ్రామింగ్ భాషలు మరియు సంబంధిత కోర్స్ వివరాలు",
+    "skills": [
+      {
+        "name": "జావా",
+        "translationKey": "skills.data_structures.json",
+        "image": "https://i.imgur.com/82dKel6.png"
+      },
+      {
+        "name": "పైథాన్",
+        "translationKey": "skills.data_structures.javascript_objects",
+        "image": "https://i.imgur.com/I1gGTdY.jpg"
+      },
+      {
+        "name": "సి",
+        "translationKey": "skills.data_structures.sql",
+        "image": "https://i.imgur.com/akbyuVx.png"
+      },
+      {
+        "name": "డేటా స్ట్రక్చర్లు & ఆల్గరిదమ్స్",
+        "translationKey": "skills.data_structures.sql",
+        "image": "https://i.imgur.com/P5Wg10t.png"
+      },
+      {
+        "name": "డిబిఎంఎస్",
+        "image":"https://www.shutterstock.com/image-illustration/dbms-database-management-system-concept-260nw-2391827465.jpg"
+      }
+    ]
+  }
+  
+  ],
+
+
 "experiences": 
-        {
-          "experience":"అనుభవం",
-          "id": 0,
-          "img": "",
-          "role": "• AWS వర్చువల్ ఇంటర్న్షిప్",
-          "company": "బ్రెయినోవిషన్",
-          "date": "జూన్ 2023 - జులై 2023",
-          "desc": "– AWS EC2, ELB, S3, ASG గురించి అద్భుతంగా తయారు చేశాం మరియు అనేక వెబ్ మరియు ML మోడల్లను డిప్లాయ్ చేశాం. S3 సేవలను ఎఫెక్టివ్లీ ఉపయోగించుకోవడం లో పరిజ్ఞానం పొందాం, AWS Ec2, ASG.",
-          "skills": [
-            "AWS",
-            "EC2",
-            "S3 బకెట్లు"
-          ],
-          "skill1":"AWS",
-          "skill2": "EC2",
-          "skill3":"S3 బకెట్లు"
-        },
+      {
+        "experience":"అనుభవం",
+        "id": 0,
+        "img": "",
+        "role": "• AWS వర్చువల్ ఇంటర్న్షిప్",
+        "company": "బ్రెయినోవిషన్",
+        "date": "జూన్ 2023 - జులై 2023",
+        "desc": "– AWS EC2, ELB, S3, ASG గురించి అద్భుతంగా తయారు చేశాం మరియు అనేక వెబ్ మరియు ML మోడల్లను డిప్లాయ్ చేశాం. S3 సేవలను ఎఫెక్టివ్లీ ఉపయోగించుకోవడం లో పరిజ్ఞానం పొందాం, AWS Ec2, ASG.",
+        "skills": [
+          "AWS",
+          "EC2",
+          "S3 బకెట్లు"
+        ],
+        "skill1":"AWS",
+        "skill2": "EC2",
+        "skill3":"S3 బకెట్లు"
+      },
 
 
-  "Projects": {
-    "Projects": "ప్రాజెక్టులు",
-    "desc": "నేను విస్తారమైన విధాల ప్రాజెక్టులలో పని చేసాను.. వెబ్ అనువర్తనాల నుండి ఆండ్రాయిడ్ అనువర్తనాలకు. ఇక్కడ కొన్ని ప్రాజెక్టులు ఉన్నాయి.",
-    "All": "అన్ని",
+"Projects": {
+  "Projects": "ప్రాజెక్టులు",
+  "desc": "నేను విస్తారమైన విధాల ప్రాజెక్టులలో పని చేసాను.. వెబ్ అనువర్తనాల నుండి ఆండ్రాయిడ్ అనువర్తనాలకు. ఇక్కడ కొన్ని ప్రాజెక్టులు ఉన్నాయి.",
+  "All": "అన్ని",
 "webapps": "వెబ్ యాప్స్",
 "androidapps": "ఆండ్రాయిడ్ యాప్స్",
 "machinelearning": "యంత్ర అధ్యయనం"
-  },
+},
 
 
 
 "projects":[
-  {
-    "id": 0,
-    "title": "CBIT-MIS",
-    "description": "మేనేజ్మెంట్ ఇన్ఫర్మేషన్ సిస్టమ్ అనేది, చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ (CBIT) కోసం ఎంఈఆర్ఎన్ స్ట్యాక్ ఆధారిత అనువర్తనం, లాబ్స్, క్లాస్ రూమ్లు, సెమినార్ హాల్లు, లైబ్రరీ, మరియు క్రీడా సాధనాలను ఎఫిషియంట్లై మేనేజ్ అండ్ ట్రాక్ చేయడం కోసం. ఈ వ్యవస్థ సంసాధన వినియోగం మరియు అభిరక్షణ కోసం అత్యవసరమైనంత.",
-    "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
-    "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/miscbit.git",
-    "webapp": "https://miscbit.vercel.app"
-  },
-  {
-    "id": 9,
-    "title": "CBIT IT శాఖ వెబ్‌సైట్",
-    "date": "జూన్ 2023 - జులై 2023",
-    "description": "CBIT IT డిపార్ట్మెంట్ వెబ్సైట్ను ప్రాధమికతగా చూపించుకున్నాం, ఒక డైనమిక్ MERN స్టాక్ సృష్టించడం. ఈ ప్లాట్‌ఫారం కాలేజీ ప్రశ్నల కోసం ఇంటరాక్టివ్ ఛాట్బాట్, అలాంకారప్రదర్శక తో ప్రాదేశిక పేజీలు, విభాగాల, తల్లిపడ్డారు, సాధనాల, అచ్చులు మరియు మేధావుల పై విస్తరించిన వివరణల మరియు అధ్యాపకుల పై వివరించిన వివరణలతో కావలసిన ప్రయత్నం చేసింది.  ఈ ప్రాజెక్టు MongoDB, Express.js, React.js, and Node.js లో నా అభిరుచులను చూపిస్తుంది, అన్నింటి జోడి తక్కువ నేరుగా సృష్టించే నేపథ్యం.",
-    "image": "https://i.imgur.com/ETkXMbu.jpg",
-    "tags": ["AWS", "Vercel", "NLP", "React Js", "MongoDb", "Node Js", "Express Js"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/fsdproject",
-    "webapp": "https://fsdproject.vercel.app"
-  },
-  {
-    "id": 0,
-    "title": "డైనమిక్ ALumni పేజీ",
-    "description": "నా కళాశాలకు అన్నింటి వెలుపల వివరాలను లేదా అందాలకు, అలంగారాలకు, పురస్కారాలకు, కళాశాల పై పునర్వివరణ తెలియజేయడానికి వారిని అడుగుచేస్తున్న సమీప పూర్తి నేపథ్య వెబ్ అనువర్తనాన్ని అభివృద్ధించడం. ఇది బహుశాక ఉపయోగకరం మరియు వర్తకులకు స్రిష్టించడం.ఇది సర్టిఫికేట్లను తదితర పేజీలకు నేరుగా ప్రాణించడానికి రూటింగ్ మరియు సమీపంలో కోసం వేరు చేస్తుంది.",
-    "image": "https://i.imgur.com/zHtliGk.png",
-    "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Vite", "MUI"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/Dynamic-alumni.git",
-    "webapp": ""
-  },
-  {
-    "id": 1,
-    "title": "మిని-మెసెంజర్",
-    "date": "",
-    "description": "మీరు ఒక ఛాట్ రూంలో మాట్లాడగల అనువర్తనాన్ని ఉంచుకోవచ్చు. అది సంప్రదించడానికి సైడ్ బార్ ఉంటుంది, అందిలో మీరు అన్ని ఛాట్ రూమ్లను చూడవచ్చు మరియు కొత్త ఛాట్ రూమ్ సృష్టించవచ్చు. అది లాగిన్ పేజీ మరియు సైన్ అప్ పేజీలు ఉంటాయి, అది బాధ్యతకు గమనించండి.",
-    "image": "https://i.imgur.com/JGRPViF.png",
-    "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "MUI"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/Real_time_chat_app.git",
-    "webapp": ""
-  },
-  {
-    "id": 2,
-    "title": "స్వయంచాలక లైసెన్స్ ప్లేట్ డిటెక్షన్",
-    "description": "డేటాసెట్ను ముందుకు విచారణ చేసి మోడల్ యాక్యూరేసీని మెరుగుపరచడం ద్వారా వాహన చిత్రాల నుండి లైసెన్స్ ప్లేట్ సంఖ్యలను కనుగొనడం. ఈటి లో 95.2 శాతానికి సరిపోయిన నిలకడలను గమనించుటకు సాధించింది.",
-    "image": "https://i.imgur.com/XcLmVih.jpg",
-    "tags": ["Python", "OCR", "TensorFlow", "Opencv", "CNN"],
-    "category": "machine learning",
-    "github": "https://github.com/Rohithchowk/ANPR.git"
-  },
-  {
-    "id": 5,
-    "title": "కోడింగ్-స్ట్రివర్స్",
-    "date": "ఫిబ్రవరి 2024",
-    "description": "రోహిత్ చౌకికి చేసిన డైనామిక్ రియాక్ట్.జెఎస్ వెబ్సైట్ మరియు అనువర్తనం నుండి అధ్యయన చేసే విద్యార్థుల ఒక రమణీయమైన మరియు ఉపయోగకరం ప్రదర్శనా అభివృద్ధించటానికి విస్తరించే వెబ్ స్థానం లభ్యపడలేదు.",
-    "image": "https://github.com/Rohithchowk/codingstrivers/blob/main/Screenshot%20(405).png?raw=true",
-    "tags": ["React Js", "CSS", "MUI"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/codingstrivers.git",
-    "webapp": "https://codingstrivers.vercel.app/"
-  },
-  {
-    "id": 5,
-    "title": "MERN స్టాక్లో CRUD అనువర్తనం.",
-    "date": "జూన్ 2021",
-    "description": "ఇది MERN ప్రాజెక్ట్ నా ప్రథమ ప్రాజెక్ట్ మరియు అది విస్తరించడంలో నాకు బహుశా సహాయం కల్పించింది. ప్రతి నిర్వచనాలు, లాబ్లింగ్, తల్లిపడ్డారు, ప్రస్తుత ఆస్తి అప్లికేషన్ల అంచనాలను కాంసెప్ట్ చేసేలా విస్తరించారు.",
-    "image": "https://i.imgur.com/9yUCy0e.png",
-    "tags": ["MongoDb", "Node Js", "React Js", "Express Js"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/ReactFrontend",
-    "webapp": "https://kind-tesla-61ce53.netlify.app/"
-  },
-  {
-    "id": 7,
-    "title": "టోడో-లిస్ట్",
-    "description": "రీయక్ట్ నేటివ్ తో తయారు చేసిన ఒక బేసిక్ ఆండ్రాయిడ్ టోడోలిస్ట్ యాప్. మీరు మాడాల్సిన చర్యలను సృష్టించవచ్చు మరియు అవాక్కులను అనుకూలంగా షెడ్యూల్ చేయవచ్చు.",
-    "tags": ["రీయక్ట్-నేటివ్"],
-    "category": "android app",
-    "github": "https://github.com/Rohithchowk/todolist_android_app.git",
-    "webapp": "https://github.com/Rohithchowk/todolist_android_app.git"
-  },
-  {
-    "id": 8,
-    "title": "చాట్బాట్",
-    "description": "మా చాట్బాట్ సీబీఐటి కళాశాల నేపథ్యాలు, ప్యాకేజీలు, క్లబ్లు, ఈవెంట్లు, వ్యాఖ్యానాలు గురించి సమాచారం ఇస్తుంది. మరియు కూడా ఆర్గనైజేషన్ గురించి.",
-    "image": "https://i.imgur.com/EfmoCEc.png",
-    "tags": ["పైథాన్", "న్యూరాల్ నెట్", "పైటార్చ్", "జావాస్క్రిప్ట్", "హ్ట్మల్", "ఫ్లాస్క్"],
-    "category": "machine learning",
-    "github": "https://github.com/Rohithchowk/CBITchatbot.git",
-    "webapp": "https://chandra76768.pythonanywhere.com"
-  },
-  
-  {
-    "id": 7,
-    "title": "కాఫ్కాలో వాతావరణం డాటా ప్రాసెసింగ్",
-    "date": "జూన్ 2021 - జూలై 2021",
-    "description": "వెయిదా నుండి క్యాఫ్కాను ఉపయోగించి తెలివైన నమూనాల ప్రక్రియలు అంచనాలకు అనుగుణంగా విశ్లేషించడంలో నాకు సహాయపడింది.",
-    "image": "",
-    "tags": ["Apache Kafka", "Data Processing", "Python"],
-    "category": "web app",
-    "github": "https://github.com/Rohithchowk/Kafka-Weather-Data.git"
-  }
+{
+  "id": 0,
+  "title": "CBIT-MIS",
+  "description": "మేనేజ్మెంట్ ఇన్ఫర్మేషన్ సిస్టమ్ అనేది, చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ (CBIT) కోసం ఎంఈఆర్ఎన్ స్ట్యాక్ ఆధారిత అనువర్తనం, లాబ్స్, క్లాస్ రూమ్లు, సెమినార్ హాల్లు, లైబ్రరీ, మరియు క్రీడా సాధనాలను ఎఫిషియంట్లై మేనేజ్ అండ్ ట్రాక్ చేయడం కోసం. ఈ వ్యవస్థ సంసాధన వినియోగం మరియు అభిరక్షణ కోసం అత్యవసరమైనంత.",
+  "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
+  "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/miscbit.git",
+  "webapp": "https://miscbit.vercel.app"
+},
+{
+  "id": 9,
+  "title": "CBIT IT శాఖ వెబ్‌సైట్",
+  "date": "జూన్ 2023 - జులై 2023",
+  "description": "CBIT IT డిపార్ట్మెంట్ వెబ్సైట్ను ప్రాధమికతగా చూపించుకున్నాం, ఒక డైనమిక్ MERN స్టాక్ సృష్టించడం. ఈ ప్లాట్‌ఫారం కాలేజీ ప్రశ్నల కోసం ఇంటరాక్టివ్ ఛాట్బాట్, అలాంకారప్రదర్శక తో ప్రాదేశిక పేజీలు, విభాగాల, తల్లిపడ్డారు, సాధనాల, అచ్చులు మరియు మేధావుల పై విస్తరించిన వివరణల మరియు అధ్యాపకుల పై వివరించిన వివరణలతో కావలసిన ప్రయత్నం చేసింది.  ఈ ప్రాజెక్టు MongoDB, Express.js, React.js, and Node.js లో నా అభిరుచులను చూపిస్తుంది, అన్నింటి జోడి తక్కువ నేరుగా సృష్టించే నేపథ్యం.",
+  "image": "https://i.imgur.com/ETkXMbu.jpg",
+  "tags": ["AWS", "Vercel", "NLP", "React Js", "MongoDb", "Node Js", "Express Js"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/fsdproject",
+  "webapp": "https://fsdproject.vercel.app"
+},
+{
+  "id": 0,
+  "title": "డైనమిక్ ALumni పేజీ",
+  "description": "నా కళాశాలకు అన్నింటి వెలుపల వివరాలను లేదా అందాలకు, అలంగారాలకు, పురస్కారాలకు, కళాశాల పై పునర్వివరణ తెలియజేయడానికి వారిని అడుగుచేస్తున్న సమీప పూర్తి నేపథ్య వెబ్ అనువర్తనాన్ని అభివృద్ధించడం. ఇది బహుశాక ఉపయోగకరం మరియు వర్తకులకు స్రిష్టించడం.ఇది సర్టిఫికేట్లను తదితర పేజీలకు నేరుగా ప్రాణించడానికి రూటింగ్ మరియు సమీపంలో కోసం వేరు చేస్తుంది.",
+  "image": "https://i.imgur.com/zHtliGk.png",
+  "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Vite", "MUI"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/Dynamic-alumni.git",
+  "webapp": ""
+},
+{
+  "id": 1,
+  "title": "మిని-మెసెంజర్",
+  "date": "",
+  "description": "మీరు ఒక ఛాట్ రూంలో మాట్లాడగల అనువర్తనాన్ని ఉంచుకోవచ్చు. అది సంప్రదించడానికి సైడ్ బార్ ఉంటుంది, అందిలో మీరు అన్ని ఛాట్ రూమ్లను చూడవచ్చు మరియు కొత్త ఛాట్ రూమ్ సృష్టించవచ్చు. అది లాగిన్ పేజీ మరియు సైన్ అప్ పేజీలు ఉంటాయి, అది బాధ్యతకు గమనించండి.",
+  "image": "https://i.imgur.com/JGRPViF.png",
+  "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "MUI"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/Real_time_chat_app.git",
+  "webapp": ""
+},
+{
+  "id": 2,
+  "title": "స్వయంచాలక లైసెన్స్ ప్లేట్ డిటెక్షన్",
+  "description": "డేటాసెట్ను ముందుకు విచారణ చేసి మోడల్ యాక్యూరేసీని మెరుగుపరచడం ద్వారా వాహన చిత్రాల నుండి లైసెన్స్ ప్లేట్ సంఖ్యలను కనుగొనడం. ఈటి లో 95.2 శాతానికి సరిపోయిన నిలకడలను గమనించుటకు సాధించింది.",
+  "image": "https://i.imgur.com/XcLmVih.jpg",
+  "tags": ["Python", "OCR", "TensorFlow", "Opencv", "CNN"],
+  "category": "machine learning",
+  "github": "https://github.com/Rohithchowk/ANPR.git"
+},
+{
+  "id": 5,
+  "title": "కోడింగ్-స్ట్రివర్స్",
+  "date": "ఫిబ్రవరి 2024",
+  "description": "రోహిత్ చౌకికి చేసిన డైనామిక్ రియాక్ట్.జెఎస్ వెబ్సైట్ మరియు అనువర్తనం నుండి అధ్యయన చేసే విద్యార్థుల ఒక రమణీయమైన మరియు ఉపయోగకరం ప్రదర్శనా అభివృద్ధించటానికి విస్తరించే వెబ్ స్థానం లభ్యపడలేదు.",
+  "image": "https://github.com/Rohithchowk/codingstrivers/blob/main/Screenshot%20(405).png?raw=true",
+  "tags": ["React Js", "CSS", "MUI"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/codingstrivers.git",
+  "webapp": "https://codingstrivers.vercel.app/"
+},
+{
+  "id": 5,
+  "title": "MERN స్టాక్లో CRUD అనువర్తనం.",
+  "date": "జూన్ 2021",
+  "description": "ఇది MERN ప్రాజెక్ట్ నా ప్రథమ ప్రాజెక్ట్ మరియు అది విస్తరించడంలో నాకు బహుశా సహాయం కల్పించింది. ప్రతి నిర్వచనాలు, లాబ్లింగ్, తల్లిపడ్డారు, ప్రస్తుత ఆస్తి అప్లికేషన్ల అంచనాలను కాంసెప్ట్ చేసేలా విస్తరించారు.",
+  "image": "https://i.imgur.com/9yUCy0e.png",
+  "tags": ["MongoDb", "Node Js", "React Js", "Express Js"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/ReactFrontend",
+  "webapp": "https://kind-tesla-61ce53.netlify.app/"
+},
+{
+  "id": 7,
+  "title": "టోడో-లిస్ట్",
+  "description": "రీయక్ట్ నేటివ్ తో తయారు చేసిన ఒక బేసిక్ ఆండ్రాయిడ్ టోడోలిస్ట్ యాప్. మీరు మాడాల్సిన చర్యలను సృష్టించవచ్చు మరియు అవాక్కులను అనుకూలంగా షెడ్యూల్ చేయవచ్చు.",
+  "tags": ["రీయక్ట్-నేటివ్"],
+  "category": "android app",
+  "github": "https://github.com/Rohithchowk/todolist_android_app.git",
+  "webapp": "https://github.com/Rohithchowk/todolist_android_app.git"
+},
+{
+  "id": 8,
+  "title": "చాట్బాట్",
+  "description": "మా చాట్బాట్ సీబీఐటి కళాశాల నేపథ్యాలు, ప్యాకేజీలు, క్లబ్లు, ఈవెంట్లు, వ్యాఖ్యానాలు గురించి సమాచారం ఇస్తుంది. మరియు కూడా ఆర్గనైజేషన్ గురించి.",
+  "image": "https://i.imgur.com/EfmoCEc.png",
+  "tags": ["పైథాన్", "న్యూరాల్ నెట్", "పైటార్చ్", "జావాస్క్రిప్ట్", "హ్ట్మల్", "ఫ్లాస్క్"],
+  "category": "machine learning",
+  "github": "https://github.com/Rohithchowk/CBITchatbot.git",
+  "webapp": "https://chandra76768.pythonanywhere.com"
+},
+
+{
+  "id": 7,
+  "title": "కాఫ్కాలో వాతావరణం డాటా ప్రాసెసింగ్",
+  "date": "జూన్ 2021 - జూలై 2021",
+  "description": "వెయిదా నుండి క్యాఫ్కాను ఉపయోగించి తెలివైన నమూనాల ప్రక్రియలు అంచనాలకు అనుగుణంగా విశ్లేషించడంలో నాకు సహాయపడింది.",
+  "image": "",
+  "tags": ["Apache Kafka", "Data Processing", "Python"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/Kafka-Weather-Data.git"
+}
 ],
 "Education":{
-  "education": "విద్య",
-  "desc":"నా విద్యాభ్యాస స్వయం ఆవిష్కరణ మరియు పెరుగుతో నా జీవితం యాత్ర అయింది. నా విద్యాభ్యాస వివరాలు ఈ ప్రకారం ఉన్నాయి.",
-  "grade":"గ్రేడు" 
+"education": "విద్య",
+"desc":"నా విద్యాభ్యాస స్వయం ఆవిష్కరణ మరియు పెరుగుతో నా జీవితం యాత్ర అయింది. నా విద్యాభ్యాస వివరాలు ఈ ప్రకారం ఉన్నాయి.",
+"grade":"గ్రేడు" 
 },
 "educations":[
-  {
-    "id": 0,
-    "img": "https://i.imgur.com/C4KBnix.png",
-    "College": "చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ, గండిపేట్, హైదరాబాద్",
-    "date": " 2021 - 2025",
-    "grade": "9.17 CGPA",
-    "desc": "నేను ప్రస్తుతం చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీలో ఇన్ఫర్మేషన్ టెక్నాలజీ బిట్చెలర్స్ డిగ్రీని పూర్తించుకున్నాను. హైదరాబాద్, గండిపేట్ లో చెరువుల నుండి 4 సెమిస్టర్లను పూర్తి చేసిన నా సిజిపిఎ ఉంది. నేను డేటా స్ట్రక్చర్స్, ఆల్గరిదంతో, అబ్జెక్ట్-అరైయంటెడ్ ప్రోగ్రామింగ్, డేటాబేస్ మేనేజ్మెంట్ సిస్టమ్స్, ఆపరేటింగ్ సిస్టమ్లు, కంప్యూటర్ నెట్వర్క్స్, పూర్ణ స్ట్యాక్ వెబ్ డెవలప్మెంట్ మరియు ఇతరాలను ప్రవేశపెట్టాను.",
-    "degree": "బ్యాచిలర్ ఆఫ్ ఇంజనీరింగ్ - బి.ఇ, ఇన్ఫర్మేషన్ టెక్నాలజీ"
-  },
-  {
-    "id": 1,
-    "img": "https://i.imgur.com/iOdQ7UT.png",
-    "College": "నారాయణ జూనియర్ కాలేజీ",
-    "date": " 2019 -  2021",
-    "grade": "98.6%",
-    "desc": "నేను హైదరాబాద్ లో నారాయణ జూనియర్ కాలేజీలో నా ఇంటర్మీడియట్ పూర్తి చేసాను, అలాంగా నేను ఎంపీసీ పట్టుకొన్నాను.",
-    "degree": "ఇంటర్మీడియేట్ - ఎంపీసీ"
-  },
-  {
-    "id": 2,
-    "img": "https://i.imgur.com/SsqHuTT.jpg",
-    "school": "విగ్నన్ హై స్కూల్ , సిర్సిల్లా",
-    "date": "2018 - 2019",
-    "grade": "9.8 GPA",
-    "desc": "నేను విగ్నన్ హై స్కూల్ , సిర్సిల్లా లో నా దశమ తరగతి విద్యని పూర్తి చేశాను.",
-    "degree": "ఎక్స్ క్లాస్"
-  }
+{
+  "id": 0,
+  "img": "https://i.imgur.com/C4KBnix.png",
+  "College": "చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ, గండిపేట్, హైదరాబాద్",
+  "date": " 2021 - 2025",
+  "grade": "9.17 CGPA",
+  "desc": "నేను ప్రస్తుతం చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీలో ఇన్ఫర్మేషన్ టెక్నాలజీ బిట్చెలర్స్ డిగ్రీని పూర్తించుకున్నాను. హైదరాబాద్, గండిపేట్ లో చెరువుల నుండి 4 సెమిస్టర్లను పూర్తి చేసిన నా సిజిపిఎ ఉంది. నేను డేటా స్ట్రక్చర్స్, ఆల్గరిదంతో, అబ్జెక్ట్-అరైయంటెడ్ ప్రోగ్రామింగ్, డేటాబేస్ మేనేజ్మెంట్ సిస్టమ్స్, ఆపరేటింగ్ సిస్టమ్లు, కంప్యూటర్ నెట్వర్క్స్, పూర్ణ స్ట్యాక్ వెబ్ డెవలప్మెంట్ మరియు ఇతరాలను ప్రవేశపెట్టాను.",
+  "degree": "బ్యాచిలర్ ఆఫ్ ఇంజనీరింగ్ - బి.ఇ, ఇన్ఫర్మేషన్ టెక్నాలజీ"
+},
+{
+  "id": 1,
+  "img": "https://i.imgur.com/iOdQ7UT.png",
+  "College": "నారాయణ జూనియర్ కాలేజీ",
+  "date": " 2019 -  2021",
+  "grade": "98.6%",
+  "desc": "నేను హైదరాబాద్ లో నారాయణ జూనియర్ కాలేజీలో నా ఇంటర్మీడియట్ పూర్తి చేసాను, అలాంగా నేను ఎంపీసీ పట్టుకొన్నాను.",
+  "degree": "ఇంటర్మీడియేట్ - ఎంపీసీ"
+},
+{
+  "id": 2,
+  "img": "https://i.imgur.com/SsqHuTT.jpg",
+  "school": "విగ్నన్ హై స్కూల్ , సిర్సిల్లా",
+  "date": "2018 - 2019",
+  "grade": "9.8 GPA",
+  "desc": "నేను విగ్నన్ హై స్కూల్ , సిర్సిల్లా లో నా దశమ తరగతి విద్యని పూర్తి చేశాను.",
+  "degree": "ఎక్స్ క్లాస్"
+}
 ],
 
 
-  "Contact": {
-    "contact": "సంప్రదించండి",
-    "desc": "ఎలాంటి ప్రశ్నలు లేదా అవకాశాల కోసం నన్ను సంప్రదించడానికి స్వేచ్ఛగా ఉండండి!",
-    "email": " ఇమెయిల్ కొరకు",
-    "youremail": "మీ ఇమెయిల్",
-    "yourname": "మీ పేరు",
-    "subject": "విషయం",
-    "message": "సందేశం",
-    "send": "పంపించండి"
-  },
-  "Footer":{
-  "name":"రోహిత్ చౌకి",
-    "about": "గురించి",
-    "skills": "నైపుణ్యాలు",
-    "experience": "అనుభవం",
-    "projects": "ప్రాజెక్ట్స్",
-    "education": "విద్య",
-    "allrights":"అన్ని హక్కులు కాపాడబడినవి."
+"Contact": {
+  "contact": "సంప్రదించండి",
+  "desc": "ఎలాంటి ప్రశ్నలు లేదా అవకాశాల కోసం నన్ను సంప్రదించడానికి స్వేచ్ఛగా ఉండండి!",
+  "email": " ఇమెయిల్ కొరకు",
+  "youremail": "మీ ఇమెయిల్",
+  "yourname": "మీ పేరు",
+  "subject": "విషయం",
+  "message": "సందేశం",
+  "send": "పంపించండి"
+},
+"Footer":{
+"name":"రోహిత్ చౌకి",
+  "about": "గురించి",
+  "skills": "నైపుణ్యాలు",
+  "experience": "అనుభవం",
+  "projects": "ప్రాజెక్ట్స్",
+  "education": "విద్య",
+  "allrights":"అన్ని హక్కులు కాపాడబడినవి."
 
 }
 
@@ -361,8 +359,8 @@
 
 
 
-    
-    
   
+  
+
 
 }

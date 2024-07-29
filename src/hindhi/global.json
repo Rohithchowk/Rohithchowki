@@ -1,340 +1,340 @@
 {
-    "Bio": {
-      "name": "रोहित चौकी",
-      "roles": [
-        "फुल स्टैक डेवलपर",
-        "क्लाउड डेवलपर",
-        "ऐप डेवलपर",
-        "प्रोग्रामर"
-      ],
-      "textloop":"मैं हूँ",
-      "checkresume":"बायो जाँच करें",
-      "description": "मेरे पोर्टफोलियो में आपका स्वागत है! मैं रोहित चौकी हूँ, एक रचनात्मक पेशेवर जिन्हें उनकी सहनशीलता, अनुकूलता, और सहयोगशीलता के लिए जाना जाता है। प्रोग्रामिंग और विकास के प्रति जुनून रखते हुए, मैं प्रत्येक परियोजना में रचनात्मकता और सटीकता का एक अद्वितीय मिश्रण लाता हूँ, सहयोग को बढ़ावा देता हूँ और अप्रत्याशित परिणाम प्रदान करता हूँ। मेरे काम की खोज करें और नवाचार और समर्पण के संगम की खोज करें।",
-      "github": "https://github.com/Rohithchowk",
-      "resume": "https://drive.google.com/file/d/1EP9Q0_nPkwP1wxGbfwJcGj0HtFQ0Tuak/view?usp=sharing",
-      "linkedin": "https://www.linkedin.com/in/rohith-chowki/",
-      "twitter": "https://twitter.com/rohith28chowki",
-      "insta": "https://www.instagram.com/rohith282019/",
-      "email": "mailto:rohith28chowki@gmail.com"
-    },
-    "Navbar": {
-      "portfolio": "पोर्टफोलियो",
-      "about": "मेरे बारे में",
-      "skills": "कौशल",
-      "experience": "अनुभव",
-      "projects": "परियोजनाएँ",
-      "education": "शिक्षा",
-      "githubprofile": "गिटहब प्रोफ़ाइल"
-    },
-    "Skills": {
-      "skills": "कौशल",
-      "here": "मेरे कुछ कौशल हैं"
-    },
-    "skills": [
-      {
-        "title": "फ्रंटएंड",
-        "skills": [
-          {
-            "name": "रिएक्ट जेएस",
-            "translationKey": "skills.frontend.react",
-            "image": "data:image/svg+xml;base64,..."
-          },
-          {
-            "name": "नेक्स्ट जेएस",
-            "translationKey": "skills.frontend.next",
-            "image": "data:image/png;base64,..."
-          },
-          {
-            "name": "एचटीएमएल",
-            "translationKey": "skills.frontend.html",
-            "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
-          },
-          {
-            "name": "सीएसएस",
-            "translationKey": "skills.frontend.css",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
-          },
-          {
-            "name": "जावास्क्रिप्ट",
-            "translationKey": "skills.frontend.javascript",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
-          },
-          {
-            "name": "बूटस्ट्रैप",
-            "translationKey": "skills.frontend.bootstrap",
-            "image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
-          },
-          {
-            "name": "मैटीरियल यूआई",
-            "translationKey": "skills.frontend.materialui",
-            "image": "data:image/png;base64,..."
-          }
-        ]
-      },
-      {
-        "title": "बैकएंड",
-        "skills": [
-          {
-            "name": "नोड जेएस",
-            "translationKey": "skills.backend.nodejs",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"
-          },
-          {
-            "name": "एक्सप्रेस जेएस",
-            "translationKey": "skills.backend.expressjs",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/800px-Expressjs.png"
-          },
-          {
-            "name": "माइसक्यूएल",
-            "translationKey": "skills.backend.Mysql",
-            "image": "https://i.imgur.com/CMUeDlT.png"
-          },
-          {
-            "name": "मोंगोड्ब",
-            "translationKey": "skills.backend.mongodb",
-            "image": "https://i.imgur.com/8esCfAn.png"
-          },
-          {
-            "name": "स्प्रिंगबूट",
-            "translationKey": "skills.backend.Springboot",
-            "image": "data:image/png;base64,..."
-          }
-        ]
-      },
-      {
-        "title": "क्लाउड",
-        "skills": [
-          {
-            "name": "एडबासिक लेवल",
-            "translationKey": "skills.databases.sql",
-            "image": "https://i.imgur.com/GGeWt8K.png"
-          },
-          {
-            "name": "जेंकिन्स",
-            "translationKey": "skills.databases.mongodb",
-            "image": "https://i.imgur.com/HSDt6Os.png"
-          },
-          {
-            "name": "डॉकर",
-            "translationKey": "skills.databases.mariadb",
-            "image": "https://i.imgur.com/Xq0KtZV.png"
-          }
-        ]
-      },
-      {
-        "title": "प्रोग्रामिंग भाषाएँ और प्रासंगिक पाठ्यक्रम",
-        "skills": [
-          {
-            "name": "जावा",
-            "translationKey": "skills.data_structures.json",
-            "image": "https://i.imgur.com/82dKel6.png"
-          },
-          {
-            "name": "पायथन",
-            "translationKey": "skills.data_structures.javascript_objects",
-            "image": "https://i.imgur.com/I1gGTdY.jpg"
-          },
-          {
-            "name": "सी",
-            "translationKey": "skills.data_structures.sql",
-            "image": "https://i.imgur.com/akbyuVx.png"
-          },
-          {
-            "name": "डेटा संरचनाएँ और एल्गोरिदम्स",
-            "translationKey": "skills.data_structures.sql",
-            "image": "https://i.imgur.com/P5Wg10t.png"
-          },
-          {
-            "name": "डीबीएमएस"
-          }
-        ]
-      }
-    ],
-    
-    "experiences": {
-          "experience": "अनुभव",
-          "id": 0,
-          "img": "",
-          "role": "•AWS वर्चुअल इंटर्नशिप",
-          "company": "Brainovision",
-          "date": "जून 2023 - जुलाई 2023",
-          "desc": "– AWS EC2, ELB, S3, ASG के बारे में विशेषज्ञ रूप से बनाया और सीखा। कई वेब और एमएल मॉडल डिप्लॉय किए। S3 सेवाओं, AWS EC2, ASG का सफलतापूर्वक उपयोग करने में विशेषज्ञता प्राप्त की।",
-          "skills": [
-            "AWS",
-            "EC2",
-            "S3 Buckets"
-          ],
-          "skill1": "AWS",
-          "skill2": "EC2",
-          "skill3": "S3 Buckets"
-        
-      },
-      
-        "Projects": {
-          "Projects": "परियोजनाएँ",
-          "desc": "मैंने विभिन्न परियोजनाओं पर काम किया है। वेब ऐप्स से लेकर एंड्रॉयड ऐप्स तक। यहाँ कुछ मेरे परियोजनाओं में से कुछ हैं।",
-          "All": "सभी",
-          "webapps": "वेब ऐप्स",
-          "androidapps": "एंड्रॉयड ऐप्स",
-          "machinelearning": "मशीन लर्निंग"
-        },
-        "projects": [
-          {
-            "id": 0,
-            "title": "CBIT-MIS",
-            "description": "व्यवस्थापन सूचना प्रणाली (MIS) विकसित की, एक MERN स्टैक आधारित एप्लिकेशन जो चैतन्य भारती तकनीकी संस्थान (सीबीआईटी) के लिए प्रशासनिक डेटा को अद्वितीयता से प्रबंधित और ट्रैक करने में मदद करता है, जिसमें लैब, कक्षाएं, सेमिनार हॉल, पुस्तकालय, और खेल की सुविधाओं का समर्थन किया गया है। यह सिस्टम संस्थान के लिए संसाधन उपयोग और रखरखाव को अनुकूलित करता है।",
-            "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
-            "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
-            "category": "web app",
-            "github": "https://github.com/Rohithchowk/miscbit.git",
-            "webapp": "https://miscbit.vercel.app"
-          },
-          {
-            "id": 9,
-            "title": "सीबीआईटी आईटी विभाग वेबसाइट",
-            "date": "जून 2023 - जुलाई 2023",
-            "description": "सीबीआईटी आईटी विभाग वेबसाइट प्रस्तुत करना, एक गतिशील MERN स्टैक सृजन। इस प्लेटफ़ॉर्म में कॉलेज पूछताछों के लिए एक इंटरैक्टिव चैटबॉट, एक मोहक 360-डिग्री कैंपस दृश्य, और विभागों, महत्वपूर्ण पूर्व-छात्र, सुविधाओं, उपलब्धियों, और शिक्षकों पर विस्तृत अनुभाग हैं। यह प्रोजेक्ट मेरी MongoDB, Express.js, React.js, और Node.js में पारंपरिक और रचनात्मक डिजाइन के लिए तकनीकी दक्षता और रचनात्मक डिजाइन के मिश्रण का प्रदर्शन करता है।",
-            "image": "https://i.imgur.com/ETkXMbu.jpg",
-            "tags": ["AWS", "Vercel", "NLP", "React Js", "MongoDb", "Node Js", "Express Js"],
-            "category": "web app",
-            "github": "https://github.com/Rohithchowk/fsdproject",
-            "webapp": "https://fsdproject.vercel.app"
-          },
-          {
-            "id": 0,
-            "title": "डायनामिक एल्युम्नाई पेज",
-            "description": "एक पूर्ण-स्टैक वेब एप्लिकेशन विकसित किया गया है जो उपयोगकर्ताओं को उनके कॉलेज के लिए एक एल्युम्नी पेज बनाने की अनुमति देता है। इसमें उपयोगकर्ता के सामर्थ्य के साथ एक फ़ॉर्म पृष्ठ प्रदर्शित होता है जहां उसे अपनी कॉलेज विवरणों जैसे प्लेसमेंट हाइलाइट्स, एल्युम्नी जानकारी, संबंधन और मान्यताएँ, कॉलेज को सम्मान और अन्य विवरणों को दर्ज करने के लिए कई इनपुट फ़ील्ड दिए गए हैं। सबमिट बटन को दबाने के बाद ये सामग्री उनके विशिष्ट स्थानों पर डायनामिक रूप से रेंडर होती हैं, एक नेवबार सेटअप के साथ और पेज के बीच मार्गदर्शन।",
-            "image": "https://i.imgur.com/zHtliGk.png",
-            "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Vite", "MUI"],
-            "category": "web app",
-            "github": "https://github.com/Rohithchowk/Dynamic-alumni.git",
-            "webapp": ""
-          },
-          {
-            "id": 1,
-            "title": "मिनी-मैसेंजर",
-            "description": "MERN प्रौद्योगिकी और Material UI के साथ बनाई गई एक वास्तविक समय चैटिंग ऐप। इसमें एक चैट रूम है जहां उपयोगकर्ता एक दूसरे से चैट कर सकते हैं। इसमें एक साइडबार है जहां उपयोगकर्ता सभी चैट रूम देख सकते हैं और एक नया चैट रूम बना सकते हैं। इसमें एक लॉगिन पेज और साइनअप पेज हैं, जहां उपयोगकर्ता साइन अप और लॉगिन कर सकते हैं।",
-            "image": "https://i.imgur.com/JGRPViF.png",
-            "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "MUI"],
-            "category": "web app",
-            "github": "https://github.com/Rohithchowk/Real_time_chat_app.git",
-            "webapp": ""
-          },
-          {
-            "id": 2,
-            "title": "स्वचालित लाइसेंस प्लेट डिटेक्शन",
-            "description": "डेटासेट को पूर्वसंस्कृत करने के लिए, मॉडल की सटीकता में सुधार किया और मॉडल को प्रशिक्षित किया। उपलब्धियां: वाहन छवियों से लाइसेंस प्लेट संख्याओं को सटीकता से डिटेक्ट करने के लिए 95.2% की सटीकता प्राप्त की।",
-            "image": "https://i.imgur.com/XcLmVih.jpg",
-            "tags": ["Python", "OCR", "TensorFlow", "Opencv", "CNN"],
-            "category": "machine learning",
-            "github": "https://github.com/Rohithchowk/ANPR.git"
-          },
-          {
-            "id": 5,
-            "title": "कोडिंग-स्ट्राइव्स",
-            "date": "फरवरी 2024",
-            "description": "कोडस्ट्राइव्स, एक एजुटेक संगठन के लिए एक गतिशील रिएक्ट.जेएस वेबसाइट विकसित किया, जो एक आकर्षक और उपयोगकर्ता-मित्र तंत्र का प्रस्ताव करता है। इस साइट का उद्देश्य सक्रिय सामग्री और संसाधनों के माध्यम से शिक्षार्थियों के कोडिंग कौशल को बढ़ाना है।",
-            "image": "https://github.com/Rohithchowk/codingstrivers/blob/main/Screenshot%20(405).png?raw=true",
-            "tags": ["React Js", "CSS", "MUI"],
-            "category": "web app",
-            "github": "https://github.com/Rohithchowk/codingstrivers.git",
-            "webapp": "https://codingstrivers.vercel.app/"
-          },
-          {
-            "id": 5,
-            "title": "MERN स्टैक में CRUD ऐप",
-            "date": "जून 2021",
-            "description": "यह मेरा MERN का पहला प्रोजेक्ट है। यह एक CRUD एप्लिकेशन है जिसमें React.js, Node.js, Express.js, MongoDB और MUI का उपयोग किया गया है। इस प्रोजेक्ट में उपयोगकर्ता व्यक्ति को नाम, ईमेल, मोबाइल, पता जैसी विवरण के साथ जोड़ सकते हैं, व्यक्ति के विवरण को संपादित कर सकते हैं और व्यक्ति के विवरण को हटा सकते हैं।",
-            "image": "https://i.imgur.com/9yUCy0e.png",
-            "tags": ["React Js", "MOngoDB", "Express.js", "Node JS", "MUI"],
-            "category": "web app",
-            "github": "https://github.com/Rohithchowk/MERN_crud_app.git"
-          },
-          {
-            "id": 7,
-            "title": "टूडो-लिस्ट",
-            "description": "React-native के साथ बनाई गई एक बुनियादी एंड्रॉइड टोडोलिस्ट ऐप। आप उन कार्यों को बना सकते हैं जो आपको करने की चाहिए और उन्हें उसी तरीके से अनुसूचित कर सकते हैं।",
-            "tags": ["React-Native"],
-            "category": "android app",
-            "github": "https://github.com/Rohithchowk/todolist_android_app.git",
-            "webapp": "https://github.com/Rohithchowk/todolist_android_app.git"
-          },
-          {
-            "id": 8,
-            "title": "चैटबॉट",
-            "description": "हमारे चैटबॉट कॉलेज स्थाननीयता, पैकेजेस, क्लब्स, इवेंट्स, फैकल्टी आदि के बारे में जानकारी देता है। और आईटी विभाग के बारे में भी।",
-            "image": "https://i.imgur.com/EfmoCEc.png",
-            "tags": ["Python", "NeuralNet", "Pytorch", "Javascript", "Html", "Flask"],
-            "category": "machine learning",
-            "github": "https://github.com/Rohithchowk/CBITchatbot.git",
-            "webapp": "https://chandra76768.pythonanywhere.com"
-          },
-          {
-            "id": 11,
-            "title": "घर कीमत पूर्वानुमान",
-            "description": "यह एक मूल एमएल परियोजना है, जो घरों की बिक्री कीमत का पूर्वानुमान लगाता है।",
-            "image": "https://i.imgur.com/g7o5xQl.png",
-            "tags": ["Python", "RandomForestregressor", "JupyterNotebook"],
-            "category": "machine learning",
-            "github": "https://github.com/Rohithchowk/housepriceprediction.git",
-            "webapp": "https://github.com/Rohithchowk/housepriceprediction.git"
-          }
-        ]
-      ,
-      "Education": {
-  "education": "शिक्षा",
-  "desc": "मेरी शिक्षा एक आत्म-अन्वेषण और विकास की यात्रा रही है। मेरा शैक्षिक विवरण निम्नलिखित हैं।",
-  "grade": "ग्रेड"
-},
-
-      "educations":[
-    {
-      "id": 0,
-      "img": "https://i.imgur.com/C4KBnix.png",
-      "College": "चैतन्य भारती इंस्टीट्यूट ऑफ टेक्नोलॉजी, गंदीपेट, हैदराबाद",
-      "date": " 2021 - 2025",
-      "grade": "9.17 CGPA",
-      "desc": "मैं वर्तमान में चैतन्य भारती इंस्टीट्यूट ऑफ टेक्नोलॉजी, गंदीपेट, हैदराबाद से सूचना प्रौद्योगिकी में स्नातक की डिग्री की पढ़ाई कर रहा हूँ। मैंने 4 सेमेस्टर पूरे किए हैं और मेरा CGPA 9.17 है। मैंने डेटा संरचनाएँ, एल्गोरिदम्स, ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग, डेटाबेस प्रबंधन प्रणाली, ऑपरेटिंग सिस्टम्स, और कंप्यूटर नेटवर्क्स, फुल स्टैक वेब डेवलपमेंट जैसे कोर्सेज किए हैं।",
-      "degree": "इंफॉर्मेशन टेक्नोलॉजी में बैचलर ऑफ इंजीनियरिंग - B.E."
-    },
-    {
-      "id": 1,
-      "img": "https://i.imgur.com/iOdQ7UT.png",
-      "College": "नारायण जूनियर कॉलेज",
-      "date": " 2019 -  2021",
-      "grade": "98.6%",
-      "desc": "मैंने हैदराबाद के नारायण जूनियर कॉलेज से अंतरमीडिएट पूरा किया, जहां मैंने एमपीसी की पढ़ाई की।",
-      "degree": "इंटरमीडिएट - MPC"
-    },
-    {
-      "id": 2,
-      "img": "https://i.imgur.com/SsqHuTT.jpg",
-      "school": "विज्ञान हाई स्कूल, सिर्सिल्ला",
-      "date": "2018 - 2019",
-      "grade": "9.8 GPA",
-      "desc": "मैंने अपनी कक्षा 10 की शिक्षा विज्ञान हाई स्कूल, सिर्सिल्ला से पूरी की।",
-      "degree": "दसवीं कक्षा"
-    }
-  ],
-  "Contact": {
-    "contact": "संपर्क करें",
-    "desc": "किसी भी प्रश्न या अवसर के लिए मुझसे संपर्क करें!",
-    "email": "मुझे ईमेल करें",
-    "youremail": "आपका ईमेल",
-    "yourname": "आपका नाम",
-    "subject": "विषय",
-    "message": "संदेश",
-    "send": "भेजें"
-  },
-  "Footer": {
+  "Bio": {
     "name": "रोहित चौकी",
-    "about": "के बारे में",
+    "roles": [
+      "फुल स्टैक डेवलपर",
+      "क्लाउड डेवलपर",
+      "ऐप डेवलपर",
+      "प्रोग्रामर"
+    ],
+    "textloop":"मैं हूँ",
+    "checkresume":"बायो जाँच करें",
+    "description": "मेरे पोर्टफोलियो में आपका स्वागत है! मैं रोहित चौकी हूँ, एक रचनात्मक पेशेवर जिन्हें उनकी सहनशीलता, अनुकूलता, और सहयोगशीलता के लिए जाना जाता है। प्रोग्रामिंग और विकास के प्रति जुनून रखते हुए, मैं प्रत्येक परियोजना में रचनात्मकता और सटीकता का एक अद्वितीय मिश्रण लाता हूँ, सहयोग को बढ़ावा देता हूँ और अप्रत्याशित परिणाम प्रदान करता हूँ। मेरे काम की खोज करें और नवाचार और समर्पण के संगम की खोज करें।",
+    "github": "https://github.com/Rohithchowk",
+    "resume": "https://drive.google.com/file/d/1EP9Q0_nPkwP1wxGbfwJcGj0HtFQ0Tuak/view?usp=sharing",
+    "linkedin": "https://www.linkedin.com/in/rohith-chowki/",
+    "twitter": "https://twitter.com/rohith28chowki",
+    "insta": "https://www.instagram.com/rohith282019/",
+    "email": "mailto:rohith28chowki@gmail.com"
+  },
+  "Navbar": {
+    "portfolio": "पोर्टफोलियो",
+    "about": "मेरे बारे में",
     "skills": "कौशल",
     "experience": "अनुभव",
-    "projects": "प्रोजेक्ट्स",
+    "projects": "परियोजनाएँ",
     "education": "शिक्षा",
-    "allrights": "सभी अधिकार सुरक्षित हैं।"
-  }
-}
-            
+    "githubprofile": "गिटहब प्रोफ़ाइल"
+  },
+  "SKills": {
+    "skills": "कौशल",
+    "here": "मेरे कुछ कौशल हैं"
+  },
+  "skills": [
+    {
+      "title": "फ्रंटएंड",
+      "skills": [
+        {
+          "name": "रिएक्ट जेएस",
+          "translationKey": "skills.frontend.react",
+          "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+        },
+        {
+          "name": "नेक्स्ट जेएस",
+          "translationKey": "skills.frontend.next",
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII="
+        },
+        {
+          "name": "एचटीएमएल",
+          "translationKey": "skills.frontend.html",
+          "image": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+        },
+        {
+          "name": "सीएसएस",
+          "translationKey": "skills.frontend.css",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+        },
+        {
+          "name": "जावास्क्रिप्ट",
+          "translationKey": "skills.frontend.javascript",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+        },
+        {
+          "name": "बूटस्ट्रैप",
+          "translationKey": "skills.frontend.bootstrap",
+          "image": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+        },
+        {
+          "name": "मैटीरियल यूआई",
+          "translationKey": "skills.frontend.materialui",
+          "image": "data:image/png;base64,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"
+        }
+      ]
+    },
+    {
+      "title": "बैकएंड",
+      "skills": [
+        {
+          "name": "नोड जेएस",
+          "translationKey": "skills.backend.nodejs",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png"
+        },
+        {
+          "name": "एक्सप्रेस जेएस",
+          "translationKey": "skills.backend.expressjs",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/800px-Expressjs.png"
+        },
+        {
+          "name": "माइसक्यूएल",
+          "translationKey": "skills.backend.Mysql",
+          "image": "https://i.imgur.com/CMUeDlT.png"
+        },
+        {
+          "name": "मोंगोड्ब",
+          "translationKey": "skills.backend.mongodb",
+          "image": "https://i.imgur.com/8esCfAn.png"
+        },
+        {
+          "name": "स्प्रिंगबूट",
+          "translationKey": "skills.backend.Springboot",
+          "image": "data:image/png;base64,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"
+        }
+      ]
+    },
+    {
+      "title": "क्लाउड",
+      "skills": [
+        {
+          "name": "एडबासिक लेवल",
+          "translationKey": "skills.databases.sql",
+          "image": "https://i.imgur.com/GGeWt8K.png"
+        },
+        {
+          "name": "जेंकिन्स",
+          "translationKey": "skills.databases.mongodb",
+          "image": "https://i.imgur.com/HSDt6Os.png"
+        },
+        {
+          "name": "डॉकर",
+          "translationKey": "skills.databases.mariadb",
+          "image": "https://i.imgur.com/Xq0KtZV.png"
+        }
+      ]
+    },
+    {
+      "title": "प्रोग्रामिंग भाषाएँ और प्रासंगिक पाठ्यक्रम",
+      "skills": [
+        {
+          "name": "जावा",
+          "translationKey": "skills.data_structures.json",
+          "image": "https://i.imgur.com/82dKel6.png"
+        },
+        {
+          "name": "पायथन",
+          "translationKey": "skills.data_structures.javascript_objects",
+          "image": "https://i.imgur.com/I1gGTdY.jpg"
+        },
+        {
+          "name": "सी",
+          "translationKey": "skills.data_structures.sql",
+          "image": "https://i.imgur.com/akbyuVx.png"
+        },
+        {
+          "name": "डेटा संरचनाएँ और एल्गोरिदम्स",
+          "translationKey": "skills.data_structures.sql",
+          "image": "https://i.imgur.com/P5Wg10t.png"
+        },
+        {
+          "name": "डीबीएमएस",
+          "image":"https://www.shutterstock.com/image-illustration/dbms-database-management-system-concept-260nw-2391827465.jpg"
+        }
+      ]
+    }
+  ],
   
+  "experiences": {
+        "experience": "अनुभव",
+        "id": 0,
+        "img": "",
+        "role": "•AWS वर्चुअल इंटर्नशिप",
+        "company": "Brainovision",
+        "date": "जून 2023 - जुलाई 2023",
+        "desc": "– AWS EC2, ELB, S3, ASG के बारे में विशेषज्ञ रूप से बनाया और सीखा। कई वेब और एमएल मॉडल डिप्लॉय किए। S3 सेवाओं, AWS EC2, ASG का सफलतापूर्वक उपयोग करने में विशेषज्ञता प्राप्त की।",
+        "skills": [
+          "AWS",
+          "EC2",
+          "S3 Buckets"
+        ],
+        "skill1": "AWS",
+        "skill2": "EC2",
+        "skill3": "S3 Buckets"
+      
+    },
+    
+      "Projects": {
+        "Projects": "परियोजनाएँ",
+        "desc": "मैंने विभिन्न परियोजनाओं पर काम किया है। वेब ऐप्स से लेकर एंड्रॉयड ऐप्स तक। यहाँ कुछ मेरे परियोजनाओं में से कुछ हैं।",
+        "All": "सभी",
+        "webapps": "वेब ऐप्स",
+        "androidapps": "एंड्रॉयड ऐप्स",
+        "machinelearning": "मशीन लर्निंग"
+      },
+      "projects": [
+        {
+          "id": 0,
+          "title": "CBIT-MIS",
+          "description": "व्यवस्थापन सूचना प्रणाली (MIS) विकसित की, एक MERN स्टैक आधारित एप्लिकेशन जो चैतन्य भारती तकनीकी संस्थान (सीबीआईटी) के लिए प्रशासनिक डेटा को अद्वितीयता से प्रबंधित और ट्रैक करने में मदद करता है, जिसमें लैब, कक्षाएं, सेमिनार हॉल, पुस्तकालय, और खेल की सुविधाओं का समर्थन किया गया है। यह सिस्टम संस्थान के लिए संसाधन उपयोग और रखरखाव को अनुकूलित करता है।",
+          "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
+          "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
+          "category": "web app",
+          "github": "https://github.com/Rohithchowk/miscbit.git",
+          "webapp": "https://miscbit.vercel.app"
+        },
+        {
+          "id": 9,
+          "title": "सीबीआईटी आईटी विभाग वेबसाइट",
+          "date": "जून 2023 - जुलाई 2023",
+          "description": "सीबीआईटी आईटी विभाग वेबसाइट प्रस्तुत करना, एक गतिशील MERN स्टैक सृजन। इस प्लेटफ़ॉर्म में कॉलेज पूछताछों के लिए एक इंटरैक्टिव चैटबॉट, एक मोहक 360-डिग्री कैंपस दृश्य, और विभागों, महत्वपूर्ण पूर्व-छात्र, सुविधाओं, उपलब्धियों, और शिक्षकों पर विस्तृत अनुभाग हैं। यह प्रोजेक्ट मेरी MongoDB, Express.js, React.js, और Node.js में पारंपरिक और रचनात्मक डिजाइन के लिए तकनीकी दक्षता और रचनात्मक डिजाइन के मिश्रण का प्रदर्शन करता है।",
+          "image": "https://i.imgur.com/ETkXMbu.jpg",
+          "tags": ["AWS", "Vercel", "NLP", "React Js", "MongoDb", "Node Js", "Express Js"],
+          "category": "web app",
+          "github": "https://github.com/Rohithchowk/fsdproject",
+          "webapp": "https://fsdproject.vercel.app"
+        },
+        {
+          "id": 0,
+          "title": "डायनामिक एल्युम्नाई पेज",
+          "description": "एक पूर्ण-स्टैक वेब एप्लिकेशन विकसित किया गया है जो उपयोगकर्ताओं को उनके कॉलेज के लिए एक एल्युम्नी पेज बनाने की अनुमति देता है। इसमें उपयोगकर्ता के सामर्थ्य के साथ एक फ़ॉर्म पृष्ठ प्रदर्शित होता है जहां उसे अपनी कॉलेज विवरणों जैसे प्लेसमेंट हाइलाइट्स, एल्युम्नी जानकारी, संबंधन और मान्यताएँ, कॉलेज को सम्मान और अन्य विवरणों को दर्ज करने के लिए कई इनपुट फ़ील्ड दिए गए हैं। सबमिट बटन को दबाने के बाद ये सामग्री उनके विशिष्ट स्थानों पर डायनामिक रूप से रेंडर होती हैं, एक नेवबार सेटअप के साथ और पेज के बीच मार्गदर्शन।",
+          "image": "https://i.imgur.com/zHtliGk.png",
+          "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Vite", "MUI"],
+          "category": "web app",
+          "github": "https://github.com/Rohithchowk/Dynamic-alumni.git",
+          "webapp": ""
+        },
+        {
+          "id": 1,
+          "title": "मिनी-मैसेंजर",
+          "description": "MERN प्रौद्योगिकी और Material UI के साथ बनाई गई एक वास्तविक समय चैटिंग ऐप। इसमें एक चैट रूम है जहां उपयोगकर्ता एक दूसरे से चैट कर सकते हैं। इसमें एक साइडबार है जहां उपयोगकर्ता सभी चैट रूम देख सकते हैं और एक नया चैट रूम बना सकते हैं। इसमें एक लॉगिन पेज और साइनअप पेज हैं, जहां उपयोगकर्ता साइन अप और लॉगिन कर सकते हैं।",
+          "image": "https://i.imgur.com/JGRPViF.png",
+          "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "Redux", "MUI"],
+          "category": "web app",
+          "github": "https://github.com/Rohithchowk/Real_time_chat_app.git",
+          "webapp": ""
+        },
+        {
+          "id": 2,
+          "title": "स्वचालित लाइसेंस प्लेट डिटेक्शन",
+          "description": "डेटासेट को पूर्वसंस्कृत करने के लिए, मॉडल की सटीकता में सुधार किया और मॉडल को प्रशिक्षित किया। उपलब्धियां: वाहन छवियों से लाइसेंस प्लेट संख्याओं को सटीकता से डिटेक्ट करने के लिए 95.2% की सटीकता प्राप्त की।",
+          "image": "https://i.imgur.com/XcLmVih.jpg",
+          "tags": ["Python", "OCR", "TensorFlow", "Opencv", "CNN"],
+          "category": "machine learning",
+          "github": "https://github.com/Rohithchowk/ANPR.git"
+        },
+        {
+          "id": 5,
+          "title": "कोडिंग-स्ट्राइव्स",
+          "date": "फरवरी 2024",
+          "description": "कोडस्ट्राइव्स, एक एजुटेक संगठन के लिए एक गतिशील रिएक्ट.जेएस वेबसाइट विकसित किया, जो एक आकर्षक और उपयोगकर्ता-मित्र तंत्र का प्रस्ताव करता है। इस साइट का उद्देश्य सक्रिय सामग्री और संसाधनों के माध्यम से शिक्षार्थियों के कोडिंग कौशल को बढ़ाना है।",
+          "image": "https://github.com/Rohithchowk/codingstrivers/blob/main/Screenshot%20(405).png?raw=true",
+          "tags": ["React Js", "CSS", "MUI"],
+          "category": "web app",
+          "github": "https://github.com/Rohithchowk/codingstrivers.git",
+          "webapp": "https://codingstrivers.vercel.app/"
+        },
+        {
+          "id": 5,
+          "title": "MERN स्टैक में CRUD ऐप",
+          "date": "जून 2021",
+          "description": "यह मेरा MERN का पहला प्रोजेक्ट है। यह एक CRUD एप्लिकेशन है जिसमें React.js, Node.js, Express.js, MongoDB और MUI का उपयोग किया गया है। इस प्रोजेक्ट में उपयोगकर्ता व्यक्ति को नाम, ईमेल, मोबाइल, पता जैसी विवरण के साथ जोड़ सकते हैं, व्यक्ति के विवरण को संपादित कर सकते हैं और व्यक्ति के विवरण को हटा सकते हैं।",
+          "image": "https://i.imgur.com/9yUCy0e.png",
+          "tags": ["React Js", "MOngoDB", "Express.js", "Node JS", "MUI"],
+          "category": "web app",
+          "github": "https://github.com/Rohithchowk/MERN_crud_app.git"
+        },
+        {
+          "id": 7,
+          "title": "टूडो-लिस्ट",
+          "description": "React-native के साथ बनाई गई एक बुनियादी एंड्रॉइड टोडोलिस्ट ऐप। आप उन कार्यों को बना सकते हैं जो आपको करने की चाहिए और उन्हें उसी तरीके से अनुसूचित कर सकते हैं।",
+          "tags": ["React-Native"],
+          "category": "android app",
+          "github": "https://github.com/Rohithchowk/todolist_android_app.git",
+          "webapp": "https://github.com/Rohithchowk/todolist_android_app.git"
+        },
+        {
+          "id": 8,
+          "title": "चैटबॉट",
+          "description": "हमारे चैटबॉट कॉलेज स्थाननीयता, पैकेजेस, क्लब्स, इवेंट्स, फैकल्टी आदि के बारे में जानकारी देता है। और आईटी विभाग के बारे में भी।",
+          "image": "https://i.imgur.com/EfmoCEc.png",
+          "tags": ["Python", "NeuralNet", "Pytorch", "Javascript", "Html", "Flask"],
+          "category": "machine learning",
+          "github": "https://github.com/Rohithchowk/CBITchatbot.git",
+          "webapp": "https://chandra76768.pythonanywhere.com"
+        },
+        {
+          "id": 11,
+          "title": "घर कीमत पूर्वानुमान",
+          "description": "यह एक मूल एमएल परियोजना है, जो घरों की बिक्री कीमत का पूर्वानुमान लगाता है।",
+          "image": "https://i.imgur.com/g7o5xQl.png",
+          "tags": ["Python", "RandomForestregressor", "JupyterNotebook"],
+          "category": "machine learning",
+          "github": "https://github.com/Rohithchowk/housepriceprediction.git",
+          "webapp": "https://github.com/Rohithchowk/housepriceprediction.git"
+        }
+      ]
+    ,
+    "Education": {
+"education": "शिक्षा",
+"desc": "मेरी शिक्षा एक आत्म-अन्वेषण और विकास की यात्रा रही है। मेरा शैक्षिक विवरण निम्नलिखित हैं।",
+"grade": "ग्रेड"
+},
+
+    "educations":[
+  {
+    "id": 0,
+    "img": "https://i.imgur.com/C4KBnix.png",
+    "College": "चैतन्य भारती इंस्टीट्यूट ऑफ टेक्नोलॉजी, गंदीपेट, हैदराबाद",
+    "date": " 2021 - 2025",
+    "grade": "9.17 CGPA",
+    "desc": "मैं वर्तमान में चैतन्य भारती इंस्टीट्यूट ऑफ टेक्नोलॉजी, गंदीपेट, हैदराबाद से सूचना प्रौद्योगिकी में स्नातक की डिग्री की पढ़ाई कर रहा हूँ। मैंने 4 सेमेस्टर पूरे किए हैं और मेरा CGPA 9.17 है। मैंने डेटा संरचनाएँ, एल्गोरिदम्स, ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग, डेटाबेस प्रबंधन प्रणाली, ऑपरेटिंग सिस्टम्स, और कंप्यूटर नेटवर्क्स, फुल स्टैक वेब डेवलपमेंट जैसे कोर्सेज किए हैं।",
+    "degree": "इंफॉर्मेशन टेक्नोलॉजी में बैचलर ऑफ इंजीनियरिंग - B.E."
+  },
+  {
+    "id": 1,
+    "img": "https://i.imgur.com/iOdQ7UT.png",
+    "College": "नारायण जूनियर कॉलेज",
+    "date": " 2019 -  2021",
+    "grade": "98.6%",
+    "desc": "मैंने हैदराबाद के नारायण जूनियर कॉलेज से अंतरमीडिएट पूरा किया, जहां मैंने एमपीसी की पढ़ाई की।",
+    "degree": "इंटरमीडिएट - MPC"
+  },
+  {
+    "id": 2,
+    "img": "https://i.imgur.com/SsqHuTT.jpg",
+    "school": "विज्ञान हाई स्कूल, सिर्सिल्ला",
+    "date": "2018 - 2019",
+    "grade": "9.8 GPA",
+    "desc": "मैंने अपनी कक्षा 10 की शिक्षा विज्ञान हाई स्कूल, सिर्सिल्ला से पूरी की।",
+    "degree": "दसवीं कक्षा"
+  }
+],
+"Contact": {
+  "contact": "संपर्क करें",
+  "desc": "किसी भी प्रश्न या अवसर के लिए मुझसे संपर्क करें!",
+  "email": "मुझे ईमेल करें",
+  "youremail": "आपका ईमेल",
+  "yourname": "आपका नाम",
+  "subject": "विषय",
+  "message": "संदेश",
+  "send": "भेजें"
+},
+"Footer": {
+  "name": "रोहित चौकी",
+  "about": "के बारे में",
+  "skills": "कौशल",
+  "experience": "अनुभव",
+  "projects": "प्रोजेक्ट्स",
+  "education": "शिक्षा",
+  "allrights": "सभी अधिकार सुरक्षित हैं।"
+}
+}
+          
