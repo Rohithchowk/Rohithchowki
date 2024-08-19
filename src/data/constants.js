@@ -262,6 +262,20 @@ export const projects = [
     
   },
   {
+    id: 1,
+    title: "AWS INFO",
+  
+    description:
+      "I developed a responsive static website using React.js that provides detailed information about AWS services. The site features a clean, modern design with Tailwind CSS, adhering to the AWS logo color palette.",
+    image:
+      "https://github.com/Rohithchowk/aws-info/blob/main/Screenshot%20(443).png",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
+    category: "web app",
+    github: "https://github.com/Rohithchowk/aws-info.git",
+    webapp: "https://aws-info.vercel.app",
+    
+  },
+  {
     id: 9,
     title: "Cbit IT dept. Website",
     date: "Jun 2023 - Jul 2023",

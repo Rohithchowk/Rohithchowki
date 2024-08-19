@@ -11,6 +11,8 @@ import DarkModeOutlinedIcon from '@mui/icons-material/DarkModeOutlined';
 import { light } from '@mui/material/styles/createPalette';
 import LightModeOutlinedIcon from '@mui/icons-material/LightModeOutlined';
 import ArrowRightOutlinedIcon from '@mui/icons-material/ArrowRightOutlined';
+import DarkMode from './dark-mode-button.png';
+import LightMode from './light-mode-button.png'
 
 const Navbar = ({darkMode,setDarkMode}) => {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -46,7 +48,7 @@ const Navbar = ({darkMode,setDarkMode}) => {
             onClick={toggle_mode}
           >
             {/* {darkMode===true?"dark":"light"} */}
-            {darkMode===true?(<LightModeOutlinedIcon/>):(<DarkModeOutlinedIcon/>)}
+            {darkMode===true?(<img src ={DarkMode} style={{height:'30px',width:'30px'}}/>):(<img src ={LightMode} style={{height:'30px',width:'30px'}}/>)}
 
   </ToggleButton>
   

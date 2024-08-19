@@ -78,7 +78,7 @@ padding: 8px;
   margin-left: 10px;
   cursor: pointer;
   background-color: ${({theme}) => theme.toggle};
-  border: 0px solid ${({theme}) => theme.text_secondary};
+  border: 2px solid black;
   border-radius: 40px;
   font-size: 16px;
   color: ${({theme}) => theme.card_light};

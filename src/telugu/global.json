@@ -203,6 +203,32 @@
   "webapp": "https://miscbit.vercel.app"
 },
 {
+  "id": 1,
+  "title": "AWS సమాచారం",
+
+  "description":
+    "నేను React.js ఉపయోగించి AWS సేవల గురించి వివరాల అందించే ప్రతిస్పందనాత్మక స్థిరమైన వెబ్‌సైట్‌ను అభివృద్ధి చేసాను. ఈ సైట్‌లో Tailwind CSS ద్వారా AWS లోగో రంగుల ప్యాలెట్‌ను పాటిస్తూ పరిశుభ్రమైన, ఆధునికమైన డిజైన్ ఉంది.",
+  "image":
+    "https://github.com/Rohithchowk/aws-info/blob/main/Screenshot%20(443).png?raw=true",
+  "tags": ["React Js", "Tailwind" ,"MUI"],
+  "category": "వెబ్ యాప్",
+  "github": "https://github.com/Rohithchowk/aws-info.git",
+  "webapp": "https://aws-info.vercel.app"
+},
+{
+  "id": 1,
+  "title": "WEMSC మ్యూజిక్",
+
+  "description":
+    "నేను Next.js ఉపయోగించి WEMSC మ్యూజిక్ అనే మ్యూజిక్ స్ట్రీమింగ్ ప్లాట్‌ఫారమ్‌ను అభివృద్ధి చేసాను. ఈ యాప్‌లో కస్టమ్ సీక్‌బార్, ప్లే/పాజ్ కంట్రోల్స్, మరియు ట్రాక్ ప్రోగ్రెస్ డిస్ప్లేతో డైనమిక్, ప్రతిస్పందనాత్మక డిజైన్ ఉంది. అన్ని పరికరాలలో వినియోగదారులకు అనుకూలంగా ఉండేలా ఫ్లెక్స్బాక్స్ లేఅవుట్‌ను Tailwind CSSతో అమలు చేసాను. ఈ ప్లాట్‌ఫారమ్ వినియోగదారులు నిరంతరం సంగీతాన్ని అన్వేషించడానికి మరియు ఆస్వాదించడానికి అనుమతిస్తుంది.",
+  "image":
+    "https://raw.githubusercontent.com/Rohithchowk/Wemsc-Music-app/master/Screenshot%20(440).png",
+  "tags": ["React Js", "Tailwind" ,"MUI"],
+  "category": "వెబ్ యాప్",
+  "github": "https://github.com/Rohithchowk/Wemsc-Music-app",
+  "webapp": "https://wemsc-music.vercel.app/"
+},
+{
   "id": 9,
   "title": "CBIT IT శాఖ వెబ్‌సైట్",
   "date": "జూన్ 2023 - జులై 2023",
