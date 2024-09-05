@@ -196,7 +196,7 @@
   "id": 0,
   "title": "CBIT-MIS",
   "description": "మేనేజ్మెంట్ ఇన్ఫర్మేషన్ సిస్టమ్ అనేది, చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ (CBIT) కోసం ఎంఈఆర్ఎన్ స్ట్యాక్ ఆధారిత అనువర్తనం, లాబ్స్, క్లాస్ రూమ్లు, సెమినార్ హాల్లు, లైబ్రరీ, మరియు క్రీడా సాధనాలను ఎఫిషియంట్లై మేనేజ్ అండ్ ట్రాక్ చేయడం కోసం. ఈ వ్యవస్థ సంసాధన వినియోగం మరియు అభిరక్షణ కోసం అత్యవసరమైనంత.",
-  "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
+  "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(402).png?raw=true",
   "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
   "category": "web app",
   "github": "https://github.com/Rohithchowk/miscbit.git",
