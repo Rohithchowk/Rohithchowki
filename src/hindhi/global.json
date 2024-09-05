@@ -184,7 +184,7 @@
           "id": 0,
           "title": "CBIT-MIS",
           "description": "व्यवस्थापन सूचना प्रणाली (MIS) विकसित की, एक MERN स्टैक आधारित एप्लिकेशन जो चैतन्य भारती तकनीकी संस्थान (सीबीआईटी) के लिए प्रशासनिक डेटा को अद्वितीयता से प्रबंधित और ट्रैक करने में मदद करता है, जिसमें लैब, कक्षाएं, सेमिनार हॉल, पुस्तकालय, और खेल की सुविधाओं का समर्थन किया गया है। यह सिस्टम संस्थान के लिए संसाधन उपयोग और रखरखाव को अनुकूलित करता है।",
-          "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(404).png?raw=true",
+          "image": "https://github.com/Rohithchowk/miscbit/blob/master/Screenshot%20(402).png?raw=true",
           "tags": ["React Js", "MongoDb", "Node Js", "Express Js", "MUI"],
           "category": "web app",
           "github": "https://github.com/Rohithchowk/miscbit.git",
