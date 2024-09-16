@@ -240,6 +240,17 @@
         },
         {
           "id": 1,
+          "title": "क्रियाकलाप ट्रैकर क्रोम एक्सटेंशन",
+          "date": "",
+          "description": "टाइम ट्रैकर एक उत्पादकता Chrome एक्सटेंशन है जिसे React.js के साथ बनाया गया है, जो वेबसाइटों पर बिताए गए समय को ट्रैक करता है और उपयोगकर्ता की गतिविधियों को बार ग्राफ़ और चार्ट के रूप में दर्शाता है। यह डेटा को लंबी अवधि के विश्लेषण के लिए MongoDB में संग्रहीत करता है और उपयोगकर्ताओं को समय प्रबंधन के सुझाव प्रदान करता है।",
+          "image": "https://github.com/Rohithchowk/eLitmusprojectfinal/raw/main/screenshots/Screenshot%20(306)1.png?raw=true",
+          "tags": ["React Js", "MongoDb", "Node Js", "Express Js"],
+          "category": "वेब ऐप",
+          "github": "https://github.com/Rohithchowk/eLitmusfrontend",
+          "webapp": "https://www.loom.com/share/f44a2ccb93bd485b8c50b58cf250eb8e?sid=5e019f3b-d44a-4b8f-b716-b8c598a36e58"
+        },        
+        {
+          "id": 1,
           "title": "मिनी-मैसेंजर",
           "description": "MERN प्रौद्योगिकी और Material UI के साथ बनाई गई एक वास्तविक समय चैटिंग ऐप। इसमें एक चैट रूम है जहां उपयोगकर्ता एक दूसरे से चैट कर सकते हैं। इसमें एक साइडबार है जहां उपयोगकर्ता सभी चैट रूम देख सकते हैं और एक नया चैट रूम बना सकते हैं। इसमें एक लॉगिन पेज और साइनअप पेज हैं, जहां उपयोगकर्ता साइन अप और लॉगिन कर सकते हैं।",
           "image": "https://i.imgur.com/JGRPViF.png",

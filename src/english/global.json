@@ -266,6 +266,28 @@
 },
 {
   "id": 1,
+  "title": "ACTIVITY TRACKER CHROME EXTENSION",
+  "date": "",
+  "description": "Time Tracker is a productivity Chrome extension built with React.js that tracks time spent on websites and visualizes user activity with bar graphs and charts. It stores data in MongoDB for long-term analysis and provides personalized suggestions to help users manage time effectively and reduce distractions.",
+  "image": "https://github.com/Rohithchowk/eLitmusprojectfinal/raw/main/screenshots/Screenshot%20(306)1.png?raw=true",
+  "tags": ["React Js", "MongoDb", "Node Js", "Express Js"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/eLitmusfrontend",
+  "webapp": "https://www.loom.com/share/f44a2ccb93bd485b8c50b58cf250eb8e?sid=5e019f3b-d44a-4b8f-b716-b8c598a36e58"
+},
+{
+  "id": 1,
+  "title": "DEADLINE NOTIFIER USING LSTM + MERN",
+  "date": "",
+  "description": "The Deadline Notifier is a MERN stack application integrated with an LSTM model to process chat data and extract deadlines. It automatically sends reminders by analyzing conversations in real-time, helping users stay on top of tasks and commitments. The deep learning-powered LSTM ensures accurate contextual understanding for efficient deadline tracking.",
+  "image": "https://github.com/Rohithchowk/Deadline-Notifier-using-LSTM-and-MERN/blob/main/Screenshot%20(456).png?raw=true",
+  "tags": ["React Js", "MongoDb", "Node Js", "Express Js","RNN","LSTM"],
+  "category": "web app",
+  "github": "https://github.com/Rohithchowk/Deadline-Notifier-using-LSTM-and-MERN.git",
+  "webapp": "https://colab.research.google.com/drive/1kCJmB81s2DRnRYc8RC1FIxrmjd0BCCs3?usp=sharing"
+},
+{
+  "id": 1,
   "title": "MINI MESSENGER",
   "date": "",
   "description": "A real time chatting  app  made with MERN technology and Material UI.  It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page and signup page , where users can sign up and login.",
