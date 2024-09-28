@@ -9,7 +9,7 @@ export const Bio = {
   description:"Welcome to my portfolio! I am Rohith Chowki, a creative professional known for my patience, adaptability, and teamwork. With a passion for programming and develpoment, I bring a unique blend of creativity and precision to every project, fostering collaboration and delivering exceptional results. Explore my work and discover the intersection of innovation and dedication.",
   github: "https://github.com/Rohithchowk",
   resume:
-    "https://drive.google.com/file/d/1s5_7HoRE9YEsZDlVP-WMG_-O_SmYiMhG/view?usp=sharing",
+    "https://drive.google.com/file/d/1Phx-3mVEOWPfHEuyl22095R_tw8vp062/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rohith-chowki/",
   twitter: "https://twitter.com/rohith28chowki",
   insta: "https://www.instagram.com/rohith282019/",
